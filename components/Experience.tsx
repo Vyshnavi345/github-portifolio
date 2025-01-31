@@ -9,26 +9,16 @@ const Experience = () => {
       <Title text="Experiences" icon={<MdWork />} />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
         <ExperienceCard
-          title="ReactBD.com"
-          subTitle="Web Developer 2022 - Present"
+          title="Falkor8"
+          subTitle="Software Engineering Intern July 2024 - September 2024"
           icon={<SiReactivex />}
         />
         <ExperienceCard
-          title="Toptal"
-          subTitle="MERN Stack Developer 2021 - present"
+          title="UChicago TechTeam"
+          subTitle="Project Member September 2023 - December 2023"
           icon={<SiToptal />}
         />
-        <ExperienceCard
-          title="Freelancer"
-          subTitle="MERN Stack Developer 2020 - 2021"
-          icon={<SiFreelancer />}
-        />
-
-        <ExperienceCard
-          title="Fiverr"
-          subTitle="MERN Stack Developer 2019 - 2020"
-          icon={<SiFiverr />}
-        />
+        
       </div>
     </div>
   );
