@@ -7,23 +7,22 @@ const Aboutme = () => {
       <Title text="About Me" icon={<SiInformatica />} />
       <div className="text-lg tracking-wide flex flex-col gap-6">
         <p>
-          I am a web developer with 4+ years of experience in React. I have a
-          strong foundation in front-end & back-end development and am skilled
-          in creating user-friendly and responsive web applications using React
-          and its ecosystem. I have experience working on a variety of projects,
-          including building and maintaining single page applications,
-          integrating with REST APIs, and implementing responsive design
-          principles. I am also proficient in using tools such as Webpack, npm,
-          and Git for development and deployment. In addition to my technical
-          skills, I am a strong communicator and team player. I am able to work
-          effectively with cross-functional teams and am comfortable taking on
-          new challenges and learning new technologies as needed.
+        I am a Master’s student in Computer Science at the University of Chicago with a passion for 
+        solving complex problems through data-driven solutions and software development. 
+        My expertise spans full-stack development, machine learning, and cloud-based applications, 
+        with experience in integrating backend services with interactive frontends.
         </p>
         <p>
-          I am always looking to improve my skills and stay up-to-date with the
-          latest best practices in web development. I am excited to continue
-          growing as a developer and making meaningful contributions to projects
-          and teams.
+        I have worked on diverse projects, from ESG analytics and reservation systems to scalable genomics services, 
+        applying my skills in Python, SQL, Go, and JavaScript. Proficient in tools like Docker, Git, 
+        and gRPC, I have built robust applications using frameworks such as React, Node.js, and Flask. 
+        I thrive in collaborative environments, contributing to cross-functional teams and leveraging technology to 
+        drive innovation.
+        </p>
+        <p>
+        Beyond academics, I am actively involved in the UChicago Tech Team, where I engage 
+        in technical projects and problem-solving challenges. I am looking forward to applying my technical 
+        expertise to build scalable, efficient, and user-centric solutions in real-world applications.
         </p>
       </div>
     </div>
