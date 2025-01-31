@@ -1,5 +1,6 @@
 import Title from "./Title";
 import { MdWork } from "react-icons/md";
+import Image from "next/image";
 import { SiReactivex, SiToptal, SiFreelancer, SiFiverr } from "react-icons/si";
 import ExperienceCard from "./ExperienceCard";
 import falkor8Logo from "./falkor.png"
