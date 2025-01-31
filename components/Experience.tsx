@@ -2,7 +2,7 @@ import Title from "./Title";
 import { MdWork } from "react-icons/md";
 import { SiReactivex, SiToptal, SiFreelancer, SiFiverr } from "react-icons/si";
 import ExperienceCard from "./ExperienceCard";
-import {falkor8Logo} from "./falkor.png"
+import falkor8Logo from "./falkor.png"
 
 const Experience = () => {
   return (
