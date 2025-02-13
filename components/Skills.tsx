@@ -24,18 +24,20 @@ const Skills = () => {
           title="CSS3"
           link="https://developer.mozilla.org/en-US/docs/Web/CSS"
         />
-        <SkillsInput title="VS Code" link="https://code.visualstudio.com/" />
         
         <SkillsInput title="Git" link="https://git-scm.com/" />
         <SkillsInput title="Github" link="https://github.com/" />
         <SkillsInput title="Python" link="https://www.python.org/" />
         <SkillsInput title="SQL" link="https://www.mysql.com/" />
-        <SkillsInput title="Go" link="https://go.dev/" />
         <SkillsInput title="Docker" link="https://www.docker.com/" />
         <SkillsInput title="Flask" link="https://flask.palletsprojects.com/en/stable/" />
         <SkillsInput title="Figma" link="https://www.figma.com/" />
-        
-      
+        <SkillsInput title="AWS" link="https://aws.amazon.com/?nc2=h_lg" />
+        <SkillsInput title="TypeScript" link="https://www.typescriptlang.org/" />
+        <SkillsInput title="Kubernetes" link="https://kubernetes.io/" />
+        <SkillsInput title="Java" link="https://www.java.com/en/" />
+        <SkillsInput title="Postgres" link="https://www.postgresql.org/" />
+        <SkillsInput title="Linux" link="https://www.linux.org/" />
       </div>
     </div>
   );
