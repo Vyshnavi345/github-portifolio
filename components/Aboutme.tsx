@@ -14,7 +14,7 @@ const Aboutme = () => {
         </p>
         <p>
         I have worked on diverse projects, from ESG analytics and reservation systems to scalable genomics services, 
-        applying my skills in Python, SQL, Go, and JavaScript. Proficient in tools like Docker, Git, 
+        applying my skills in Python, SQL and JavaScript. Proficient in tools like Docker, Git, 
         and gRPC, I have built robust applications using frameworks such as React, Node.js, and Flask. 
         I thrive in collaborative environments, contributing to cross-functional teams and leveraging technology to 
         drive innovation.

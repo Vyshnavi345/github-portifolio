@@ -16,34 +16,34 @@ const Projects = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 place-items-center">
         <ProjectCard
           img={amazonClone.src}
-          title="Amazon Clone"
+          title="Genomics Annotation Service (GAS) using AWS"
           link="https://amazonclone.reactbd.com/"
         />
         <ProjectCard
           img={reactBD.src}
-          title="Cyber Security"
-          link="https://reactbd.com/"
+          title="Auction Site"
+          link="https://github.com/KOYYADOONDYSAIVYSHNAVI/bidmarket/tree/main"
         />
         <ProjectCard
           img={cyberBlog.src}
-          title="Cyber Security"
+          title="Reservation System using FastAPI"
           link="https://blog.reactbd.com/"
         />
         <ProjectCard
           img={noorShop.src}
-          title="Noor Shopping"
+          title="Smart Waste Management System with IoT and Blockchain Integration"
           link="https://orebishopping.reactbd.com/"
         />
         <ProjectCard
           img={dynamicPortfolio.src}
-          title="Dynamic Portfolio"
+          title="Healthbeats"
           link="https://amazonclone.reactbd.com/"
         />
 
         <ProjectCard
           img={dashboard.src}
-          title="Dashboard"
-          link="https://orebishopping.reactbd.com/"
+          title="Chat App with AWS amplify"
+          link="https://github.com/Vyshnavi345/chatapp"
         />
       </div>
     </div>
