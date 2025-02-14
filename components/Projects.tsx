@@ -8,6 +8,7 @@ import reactBD from "../public/img/projects/reactBD.png";
 import dashboard from "../public/img/projects/dashboard.webp";
 import Image from "next/image";
 import ProjectCard from "./ProjectCard";
+import auction from "./auction.png"
 
 const Projects = () => {
   return (
@@ -20,7 +21,7 @@ const Projects = () => {
           link="https://amazonclone.reactbd.com/"
         />
         <ProjectCard
-          img={reactBD.src}
+          img={auction.src}
           title="Auction Site"
           link="https://github.com/KOYYADOONDYSAIVYSHNAVI/bidmarket/tree/main"
         />
