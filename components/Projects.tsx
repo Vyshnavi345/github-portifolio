@@ -8,7 +8,8 @@ import reactBD from "../public/img/projects/reactBD.png";
 import dashboard from "../public/img/projects/dashboard.webp";
 import Image from "next/image";
 import ProjectCard from "./ProjectCard";
-import auction from "./auction4.png"
+import auction from "./auction4.png";
+import gas from "./gas.png"
 
 const Projects = () => {
   return (
@@ -16,7 +17,7 @@ const Projects = () => {
       <Title text="Projects" icon={<FaProjectDiagram />} />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 place-items-center">
         <ProjectCard
-          img={amazonClone.src}
+          img={gas.src}
           title="Genomics Annotation Service (GAS) using AWS"
           link="https://amazonclone.reactbd.com/"
         />
@@ -28,7 +29,7 @@ const Projects = () => {
         <ProjectCard
           img={cyberBlog.src}
           title="Reservation System using FastAPI"
-          link="https://blog.reactbd.com/"
+          link="https://github.com/KOYYADOONDYSAIVYSHNAVI/reserve-equipments"
         />
         <ProjectCard
           img={noorShop.src}
