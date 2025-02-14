@@ -8,7 +8,7 @@ import reactBD from "../public/img/projects/reactBD.png";
 import dashboard from "../public/img/projects/dashboard.webp";
 import Image from "next/image";
 import ProjectCard from "./ProjectCard";
-import auction from "./auction.png"
+import auction from "./auction2.png"
 
 const Projects = () => {
   return (
