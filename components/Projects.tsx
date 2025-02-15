@@ -11,7 +11,7 @@ import ProjectCard from "./ProjectCard";
 import reservation from "./auction4.png";
 import auction from "./auction6.png";
 import gas from "./gas.png";
-import chat from "./chat.png"
+import chat from "./chat2.png"
 
 const Projects = () => {
   return (
