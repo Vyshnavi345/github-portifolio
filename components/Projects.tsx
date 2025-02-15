@@ -9,8 +9,9 @@ import dashboard from "../public/img/projects/dashboard.webp";
 import Image from "next/image";
 import ProjectCard from "./ProjectCard";
 import reservation from "./auction4.png";
-import auction from "./auction6.png"
-import gas from "./gas.png"
+import auction from "./auction6.png";
+import gas from "./gas.png";
+import chat from "./chat.png"
 
 const Projects = () => {
   return (
@@ -44,7 +45,7 @@ const Projects = () => {
         />
 
         <ProjectCard
-          img={dashboard.src}
+          img={chat.src}
           title="Chat App with AWS amplify"
           link="https://github.com/Vyshnavi345/chatapp"
         />
