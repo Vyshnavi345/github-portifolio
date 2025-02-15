@@ -9,6 +9,7 @@ import dashboard from "../public/img/projects/dashboard.webp";
 import Image from "next/image";
 import ProjectCard from "./ProjectCard";
 import auction from "./auction4.png";
+import reservation from "./auction5.png"
 import gas from "./gas.png"
 
 const Projects = () => {
@@ -27,7 +28,7 @@ const Projects = () => {
           link="https://github.com/KOYYADOONDYSAIVYSHNAVI/bidmarket/tree/main"
         />
         <ProjectCard
-          img={cyberBlog.src}
+          img={reservation.src}
           title="Reservation System using FastAPI"
           link="https://github.com/KOYYADOONDYSAIVYSHNAVI/reserve-equipments"
         />
