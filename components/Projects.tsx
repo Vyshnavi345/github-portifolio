@@ -12,7 +12,7 @@ import reservation from "./auction4.png";
 import auction from "./auction6.png";
 import gas from "./gas.png";
 import chat from "./chat2.png";
-import health from "./health.png"
+import health from "./health.png";
 
 const Projects = () => {
   return (
@@ -40,7 +40,7 @@ const Projects = () => {
           link="https://orebishopping.reactbd.com/"
         />
         <ProjectCard
-          img={dynamicPortfolio.src}
+          img={health.src}
           title="Healthbeats"
           link="https://github.com/KOYYADOONDYSAIVYSHNAVI/healthbeats"
         />
