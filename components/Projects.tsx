@@ -12,7 +12,7 @@ import reservation from "./auction4.png";
 import auction from "./auction6.png";
 import gas from "./gas.png";
 import chat from "./chat2.png";
-import health from "./health2.png";
+import health from "./health3.png";
 
 const Projects = () => {
   return (
