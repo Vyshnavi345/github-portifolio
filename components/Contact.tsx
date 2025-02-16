@@ -13,7 +13,7 @@ const Contact = () => {
         </a>
       </div>
       <div className="mt-8 flex items-center flex-wrap   gap-8 justify-center">
-        <SocialLink title="Github" link="https://github.com/Vyshnavi345/" />
+        <SocialLink title="Github" link="https://github.com/KOYYADOONDYSAIVYSHNAVI" />
         <SocialLink
           title="Linkedin"
           link="http://www.linkedin.com/in/doondy-sai-vyshnavi-koyya-137ab8215"
