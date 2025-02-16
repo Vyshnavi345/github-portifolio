@@ -11,7 +11,8 @@ import ProjectCard from "./ProjectCard";
 import reservation from "./auction4.png";
 import auction from "./auction6.png";
 import gas from "./gas.png";
-import chat from "./chat2.png"
+import chat from "./chat2.png";
+import health from "./health.png"
 
 const Projects = () => {
   return (
@@ -21,7 +22,7 @@ const Projects = () => {
         <ProjectCard
           img={gas.src}
           title="Genomics Annotation Service (GAS) using AWS"
-          link="https://amazonclone.reactbd.com/"
+          link="https://github.com/KOYYADOONDYSAIVYSHNAVI/gas-aws"
         />
         <ProjectCard
           img={auction.src}
@@ -41,13 +42,13 @@ const Projects = () => {
         <ProjectCard
           img={dynamicPortfolio.src}
           title="Healthbeats"
-          link="https://amazonclone.reactbd.com/"
+          link="https://github.com/KOYYADOONDYSAIVYSHNAVI/healthbeats"
         />
 
         <ProjectCard
           img={chat.src}
           title="Chat App with AWS amplify"
-          link="https://github.com/Vyshnavi345/chatapp"
+          link="https://github.com/KOYYADOONDYSAIVYSHNAVI/chatapp"
         />
       </div>
     </div>
