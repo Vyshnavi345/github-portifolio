@@ -14,17 +14,17 @@ const Experience = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
         <ExperienceCard
           title="Falkor8"
-          subTitle="Software Engineering Intern June 2024 - September 2024"
+          subTitle="Software Engineering Intern | June 2024 - September 2024"
           icon={<Image src={falkor8Logo} alt="Falkor8 Logo" width={30} height={30} />}
         />
         <ExperienceCard
           title="UChicago TechTeam"
-          subTitle="Project Member September 2023 - December 2023"
+          subTitle="Project Member | September 2023 - December 2023"
           icon={<Image src={techlogo} alt="Falkor8 Logo" width={30} height={30} />}
         />
         <ExperienceCard
           title="N.Plus Innovations Pvt Ltd."
-          subTitle="Junior Developer Intern December 2022 - August 2023"
+          subTitle="Junior Developer Intern | December 2022 - August 2023"
           icon={<Image src={nlogo} alt="Falkor8 Logo" width={30} height={30} />}
         />
         
