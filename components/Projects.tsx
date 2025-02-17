@@ -13,6 +13,7 @@ import auction from "./auction6.png";
 import gas from "./gas.png";
 import chat from "./chat2.png";
 import health from "./health3.png";
+import smart from "./smart.png";
 
 const Projects = () => {
   return (
@@ -35,9 +36,9 @@ const Projects = () => {
           link="https://github.com/KOYYADOONDYSAIVYSHNAVI/reserve-equipments"
         />
         <ProjectCard
-          img={noorShop.src}
+          img={smart.src}
           title="Smart Waste Management System with IoT and Blockchain Integration"
-          link="https://orebishopping.reactbd.com/"
+          link="https://github.com/KOYYADOONDYSAIVYSHNAVI/smart-garbage-monitoring-system-using-IoT-blockchain"
         />
         <ProjectCard
           img={health.src}

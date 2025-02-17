@@ -24,7 +24,7 @@ const Experience = () => {
         />
         <ExperienceCard
           title="N.Plus Innovations Pvt Ltd."
-          subTitle="Junior Developer Intern January 2022 - August 2022"
+          subTitle="Junior Developer Intern December 2022 - August 2023"
           icon={<Image src={nlogo} alt="Falkor8 Logo" width={30} height={30} />}
         />
         

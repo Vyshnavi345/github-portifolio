@@ -38,6 +38,8 @@ const Skills = () => {
         <SkillsInput title="Java" link="https://www.java.com/en/" />
         <SkillsInput title="Postgres" link="https://www.postgresql.org/" />
         <SkillsInput title="Linux" link="https://www.linux.org/" />
+        <SkillsInput title="Next.js" link="https://nextjs.org/" />
+        <SkillsInput title="Express.js" link="https://expressjs.com/" />
       </div>
     </div>
   );
