@@ -6,7 +6,7 @@ const Contact = () => {
     <div className="wrapper">
       <div className="max-w-5xl mx-auto flex flex-col gap-4 items-center justify-center">
         <h2 className="text-2xl font-bold">Get in touch!</h2>
-        <a href="https://drive.google.com/file/d/1cCaEiK04CxuZkFY0PhVemdxsDrV5w0vE/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+        <a href="https://drive.google.com/file/d/1e29WyCJmSlukHNCNdlgYl39oXeXMPWLR/view?usp=sharing" target="_blank" rel="noopener noreferrer">
           <button className="w-52 h-14 bg-gradient-to-r from-blue-600 via-blue-700 to-indigo-950 text-xl font-bold text-white rounded-lg hover:from-indigo-950 hover:to-blue-600 duration-300">
             Resume
           </button>
