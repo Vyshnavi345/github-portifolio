@@ -26,13 +26,31 @@ const Experience = () => {
 <ExperienceCard
   title="UChicago TechTeam"
   subTitle="Project Member | September 2023 - December 2023"
-  icon={<Image src={techlogo} alt="TechTeam Logo" width={30} height={30} />}
-  description={[
-    "Collaborated on a mapping tool for partner recruitment and alumni relocation.",
-    "Created Python unit tests and refactored backend code for improved performance.",
-    "Worked on integrating data processing algorithms to enhance tool efficiency."
+  icon={<Image src={techlogo} alt="UChicago TechTeam Logo" width={30} height={30} />}
+  projectDescriptions={[
+    {
+      projectTitle: "Mapping Tool for Partner Recruitment & Alumni Relocation",
+      subTitle: "Project Member | September 2023 - December 2023",
+      description: [
+        "Collaborated on a mapping tool for partner recruitment and alumni relocation.",
+        "Created Python unit tests and refactored backend code for improved performance.",
+        "Worked on integrating data processing algorithms to enhance tool efficiency."
+      ]
+    },
+    {
+      projectTitle: "Genesys Works Project",
+      subTitle: "Project Member | June 2024 - September 2024",
+      description: [
+        "Contributed to the Genesys Works project by enhancing data management and analysis.",
+        "Played a key role in building an AWS Cloud database for managing student data.",
+        "Led data cleaning and transformation efforts to ensure data accuracy.",
+        "Created data visualizations using PowerBI and Python to support decision-making.",
+        "Successfully migrated data from Excel to AWS Cloud for improved accessibility."
+      ]
+    }
   ]}
 />
+
 
 <ExperienceCard
   title="N.Plus Innovations Pvt Ltd."
