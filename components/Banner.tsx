@@ -17,7 +17,7 @@ const Banner = () => {
       <div className="w-3/4 flex flex-col items-center md:items-start    gap-2">
         <h1 className="text-5xl font-bold text-white">Doondy Sai Vyshnavi Koyya</h1>
         <h3 className="text-xl md:text-2xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-300 via-red-300 to-indigo-300 tracking-wide">
-        Master’s in Computer Science student at the University of Chicago.
+        Recent Master’s in Computer Science graduate from the University of Chicago.
         </h3>
         
       </div>
