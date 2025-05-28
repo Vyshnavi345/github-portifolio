@@ -1,6 +1,6 @@
 import Image from "next/image";
 import ProfileImg from "../public/img/profileImg.jpg";
-import download from "./download.png"
+import download from "./download2.jpeg"
 
 const Banner = () => {
   return (
