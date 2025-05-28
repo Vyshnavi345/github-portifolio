@@ -5,13 +5,25 @@ import { SiReactivex, SiToptal, SiFreelancer, SiFiverr } from "react-icons/si";
 import ExperienceCard from "./ExperienceCard";
 import falkor8Logo from "./falkor.png";
 import techlogo from "./tech.png";
-import nlogo from "./logo.png"
+import nlogo from "./logo.png";
+import grantaideLogo from "./grantaide_logo.jpg"
 
 const Experience = () => {
   return (
     <div className="wrapper">
       <Title text="Experiences" icon={<MdWork />}  />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
+<ExperienceCard
+  title="GrantAide"
+  subTitle="Full-stack Developer Intern | May 2025"
+  icon={<Image src={grantaideLogo} alt="GrantAide Logo" width={30} height={30} />}
+  description={[
+    "Developed and maintained UI components for GrantAide’s main SaaS platform and extension app using React, JavaScript, and TypeScript.",
+    "Resolved 10+ feature and bug tickets, ensuring high-quality code and on-time delivery.",
+    "Utilized Jira for sprint-based task management, including ticket creation, tracking, and resolution."
+  ]}
+/>
+
         <ExperienceCard
   title="Falkor8"
   subTitle="Software Engineering Intern | June 2024 - September 2024"
