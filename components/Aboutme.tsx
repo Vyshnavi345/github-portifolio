@@ -7,7 +7,7 @@ const Aboutme = () => {
       <Title text="About Me" icon={<SiInformatica />} />
       <div className="text-lg tracking-wide flex flex-col gap-6">
         <p>
-        I'm a recent graduate in Computer Science from the University of Chicago with a passion for 
+        I am a recent graduate in Computer Science from the University of Chicago with a passion for 
         solving complex problems through data-driven solutions and software development. 
         My expertise spans full-stack development, machine learning, and cloud-based applications, 
         with experience in integrating backend services with interactive frontends.
