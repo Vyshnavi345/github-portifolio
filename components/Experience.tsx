@@ -46,7 +46,7 @@ const Experience = () => {
   ]}
 />
 
-<ExperienceCard
+{/*<ExperienceCard
   title="N.Plus Innovations Pvt Ltd."
   subTitle="Junior Developer Intern | December 2022 - August 2023"
   icon={<Image src={nlogo} alt="N.Plus Logo" width={30} height={30} />}
@@ -55,7 +55,19 @@ const Experience = () => {
     "Developed and deployed full-stack applications using React.js and Express.js.",
     "Implemented authentication and RESTful APIs for better user interactions."
   ]}
+/>*/}
+
+<ExperienceCard
+  title="N.Plus Innovations Pvt Ltd."
+  subTitle="Backend Developer Intern | April 2022 - July 2022"
+  icon={<Image src={nlogo} alt="N.Plus Logo" width={30} height={30} />}
+  description={[
+    "Worked with cloud technologies and web development tools to build scalable, cloud-based applications.",
+    "Developed and deployed full-stack applications using React.js and Express.js.",
+    "Implemented authentication and RESTful APIs for better user interactions."
+  ]}
 />
+
 
         
       </div>
